@@ -1,0 +1,14 @@
+{
+    "collection": "cities",
+    "database": "ab-game",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
