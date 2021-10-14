@@ -1,0 +1,12 @@
+{
+    "collection": "master_warga",
+    "database": "sapphire_5N",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "insert": true,
+            "delete": true
+        }
+    ]
+}

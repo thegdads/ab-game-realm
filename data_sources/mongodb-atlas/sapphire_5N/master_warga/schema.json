@@ -1,0 +1,32 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "blok": {
+            "bsonType": "string"
+        },
+        "hp": {
+            "bsonType": "string"
+        },
+        "nama": {
+            "bsonType": "string"
+        },
+        "nomor": {
+            "bsonType": "string"
+        },
+        "password": {
+            "bsonType": "string"
+        },
+        "pemilik": {
+            "bsonType": "string"
+        },
+        "status": {
+            "bsonType": "string"
+        },
+        "username": {
+            "bsonType": "string"
+        }
+    },
+    "title": "master_warga"
+}
