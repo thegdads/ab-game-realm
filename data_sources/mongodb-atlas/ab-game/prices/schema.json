@@ -1,1 +1,23 @@
-{}
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "buy": {
+            "bsonType": "double"
+        },
+        "city_id": {
+            "bsonType": "objectId"
+        },
+        "created_date": {
+            "bsonType": "date"
+        },
+        "item_id": {
+            "bsonType": "objectId"
+        },
+        "sell": {
+            "bsonType": "double"
+        }
+    },
+    "title": "price"
+}
